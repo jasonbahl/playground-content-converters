@@ -22,7 +22,7 @@
 			"zipFile": {
 				"resource": "url",
 				"url": "https://github-proxy.com/proxy/?repo=wp-graphql/wp-graphql&directory=docs",
-				"caption": "Downloading Gutenberg handbook (6MB)"
+				"caption": "Downloading WPGraphQL Docs..."
 			}
 		},
 		{
